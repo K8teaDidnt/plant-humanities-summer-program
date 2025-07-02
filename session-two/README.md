@@ -14,4 +14,6 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 <param ve-image
 	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is a paper mosaic of St. John's Wort by Mary Delaney.">
-	   
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
