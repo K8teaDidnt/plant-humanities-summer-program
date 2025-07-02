@@ -10,7 +10,7 @@ layout="vertical">
 
 ### Introduction
 
-This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+This is a filler paragraph.[^1] This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 <param ve-image
 	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is a paper mosaic of St. John's Wort by Mary Delaney.">
@@ -29,3 +29,8 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
                end="20">
 
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+<param ve-iframe
+               src="https://archive.org/details/naturalprozacpro00zues/mode/2up">
+
+
+[^1]: This is the first footnote.
