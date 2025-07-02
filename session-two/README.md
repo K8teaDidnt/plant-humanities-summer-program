@@ -17,3 +17,11 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 <param ve-image
 	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+<param ve-compare
+               src="wc:St._John%27s_wort_extract.jpg"
+               caption="This is an extract made from a St. John's wort plant.">
+<param ve-compare
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
