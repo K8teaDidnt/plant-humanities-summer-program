@@ -44,7 +44,8 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 	   referrerpolicy="no-referrer-when-downgrade">
 
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
-<param src="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/figure/bph14936-fig-0002/" allowfullscreen>
+<param ve-iframe
+	   src="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/figure/bph14936-fig-0002/">
 
 [^1]: This is the first footnote.
 [^2]: Jonathan Zuess, The Natural Prozac Program: How to Use St. John’s Wort, the Antidepressant Herb (New York: Three Rivers Press, 1997) 32. Retrieved from https://archive.org/details/naturalprozacpro00zues/.
