@@ -26,7 +26,8 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 <param ve-video
                src="5jWsm_XwUxc"
                start="8"
-               end="20">
+               end="20"
+			   caption="People have opinions!">
 
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.[^2]
 <param ve-iframe
