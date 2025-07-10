@@ -36,5 +36,5 @@ Using geojson.io, you can also add arrows and highlighted sections, along with m
 	   caption="This is a map of SJW's transition from Europe to the U.S.">
 <param ve-map-layer geojson
 	   url="https://raw.githubusercontent.com/K8teaDidnt/plant-humanities-summer-program/refs/heads/main/session-four/map.json"
-	   zoom="1.85"
-	   caption="This is a map of SJW's transition from Europe to the U.S.">
+	   show-labels
+	   stroke-width="0">
