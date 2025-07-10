@@ -29,12 +29,16 @@ Additionally, you can use the url from openstreetmap.org which gives you the coo
 	   caption="Here's Harvard University.">
 	   
 	   
-Using geojson.io, you can also add arrows and highlighted sections, along with map markers: images pulled from wikimedia commons. Use the draw polygon button, click on the polygon to change color and line width, then click save. Copy the generated code from the right-hand side and paste it into github in a new "map.json" file. Commit changes. Open the file, click on raw, then copy the URL. Paste as a layer.
+Using geojson.io, you can also add arrows and highlighted sections, along with map markers: images pulled from wikimedia commons. Use the draw polygon button, click on the polygon to change color and line width, then click save. Copy the generated code from the right-hand side and paste it into github in a new "map.json" file. Commit changes. Open the file, click on raw, then copy the URL. Paste as a layer, removing "ref/heads". You can draw arrows on geojson to add them, and include images as markers at certain locations.
 <param ve-map prefer-geojson
 	   center="19.62,-42.73"
 	   zoom="1.85"
 	   caption="This is a map of SJW's transition from Europe to the U.S.">
 <param ve-map-layer geojson
-	   url="https://raw.githubusercontent.com/K8teaDidnt/plant-humanities-summer-program/refs/heads/main/session-four/map.json"
+	   url="https://raw.githubusercontent.com/K8teaDidnt/plant-humanities-summer-program/main/session-four/map.json"
 	   show-labels
-	   stroke-width="0">
+	   stroke-width="2">
+<param ve-map-marker
+	   url="wc:Hypericum_cerastioides_Silvana_-_St._John%27s_Wort.jpg"
+	   coords="44.0637,-70.0550"
+	   circle=True>
