@@ -28,7 +28,6 @@ Additionally, you can use the url from openstreetmap.org which gives you the coo
 	   zoom="15"
 	   caption="Here's Harvard University.">
 	   
-	   
 Using geojson.io, you can also add arrows and highlighted sections, along with map markers: images pulled from wikimedia commons. Use the draw polygon button, click on the polygon to change color and line width, then click save. Copy the generated code from the right-hand side and paste it into github in a new "map.json" file. Commit changes. Open the file, click on raw, then copy the URL. Paste as a layer, removing "ref/heads". You can draw arrows on geojson to add them, and include images as markers at certain locations.
 <param ve-map prefer-geojson
 	   center="19.62,-42.73"
