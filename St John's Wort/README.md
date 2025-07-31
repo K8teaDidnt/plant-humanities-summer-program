@@ -14,7 +14,7 @@ Zoe Dubno did not expect her life to unravel. It was on a whim that the writer b
                src="wc:Hypericum_perforatum_kz03.jpg"
                caption="This is an extract made from a St. John's wort plant.">
 <param ve-compare
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Holding the supplement, June 30.HEIC">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Holding St. John's wort in a pharmacy, June 30.JPG">
 
 Dubno’s experience encapsulates the societal and scientific fascination that surrounds St. John’s wort. On anonymous forums such as Reddit and Quora, some describe the supplement working wonders, while others warn of troubling side effects.[^2] Similarly, though some double-blind laboratory studies have documented its successful depression treatment, others have found that the plant *adds* to mental health challenges.[^3] The controversy that surrounds the plant exemplifies how twenty-first century methods of treating depression can be products not only of scientific thinking, but also traditional cures and health fads.
 <param ve-image
