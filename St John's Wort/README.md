@@ -105,7 +105,7 @@ With the rise of germ theory and anatomical pathology, humoral theory gradually 
 	   caption="Portion of a column celebrating the 1858 Medical Act from the *British Medical Journal* Vol. 1, No. 71, page 373. Retrieved from https://www.jstor.org/stable/25192302.">
 	   
 With the rise of germ theory and anatomical pathology, humoral theory gradually fell out of favor.[^25] New-age physicians criticized "quack" herbalists for their imprecise preparations, impure ingredients, and outdated conceptions of health and disease.[^26] They scorned herbal remedies as make-believe drugs.[^27] Becoming a doctor, however, required university training and certification, raising the cost of treatment. As a result, poor families and rural communities still relied on the traditional methods and cures that they could readily access. The 1858 Medical Act in Britain further separated these professions, establishing a legally unified medical profession that excluded herbalist practice.[^28]
-<param ve-image
+<param ve-iframe
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/25192302.pdf"
 	   caption="Portion of a column celebrating the 1858 Medical Act from the *British Medical Journal* Vol. 1, No. 71, page 373. Retrieved from https://www.jstor.org/stable/25192302.">
 
