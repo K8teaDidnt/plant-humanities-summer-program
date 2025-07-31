@@ -184,7 +184,7 @@ Dubno’s final reason for taking St. John’s wort was that she was "nearly pho
 	
 In summary, despite their popular appeal, such unregulated substances can ultimately prove dangerous. As recently as 2025, the United States Secretary of Health and Human Services Robert F. Kennedy Jr. has argued against the "aggressive suppression" of the 1994 FDA law that authorized such controversial cures as dietary supplements, encouraging their manufacturers to make bolder claims about the effectiveness of these drugs to receive government subsidies.[^63] For supplements such as St. John’s wort, which can lead extreme mental and physical effects if improperly administered, less regulation can only increase potential risks for people in search of mental support. By contrast, standardized dosages across brands and mandatory warning labels listing drug interactions could go a long way toward improving the supplement’s safety.[^64]
 <param ve-iframe
-	   src="https://x.com/RobertKennedyJr/status/1849925311586238737"
+	   src="https://x.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw"
 	   caption="socio-demographic index.">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">FDA’s war on public health is about to end. This includes its aggressive suppression of psychedelics, peptides, stem cells, raw milk, hyperbaric therapies, chelating compounds, ivermectin, hydroxychloroquine, vitamins, clean foods, sunshine, exercise, nutraceuticals and anything…</p>&mdash; Robert F. Kennedy Jr (@RobertKennedyJr) <a href="https://twitter.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw">October 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
