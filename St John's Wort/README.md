@@ -80,9 +80,7 @@ Although native to Europe, Western Asia, and North Africa, St. John’s wort has
 <param ve-image
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Sampson%20Parker%20Figure%2011.JPG"
 	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 22.">
-<param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/St%20John's%20Wort/Sampson%20Parker%20Figure%202.JPG.JPG"
-	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 7.">
+
 
 The plant’s abundance on grazing land was especially problematic because it was poisonous to cattle. When sheep, cows, and horses consume it in large quantities, they develop painful facial sores and scabs. The plant causes extreme light sensitivity in livestock, and eventually, the poisoned animals could die. St. John’s wort was described as "the cause of the heaviest financial losses found on pasture and range lands of California."[^22]
 <param ve-gallery show-captions
