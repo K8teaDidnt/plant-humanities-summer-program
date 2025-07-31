@@ -270,3 +270,20 @@ Using geojson.io, you can also add arrows and highlighted sections, along with m
 [^1]: Zoe Dubno, "Supplements Made Me Lose My Mind," The Cut, May 15, 2025. https://www.thecut.com/article/supplements-made-me-lose-my-mind.html.
 [^2]: "St Johns Wort - personal anecdote," Reddit, Accessed June 20, 2025. https://www.reddit.com/r/cogsci/comments/batyl/st_johns_wort_personal_anecdote/; "What is your experience using St. John’s Wort?" Quora, Accessed June 20, 2025. https://www.quora.com/What-is-your-experience-using-St-Johns-Wort.
 [^3]: Osman Yildirim and Fatih Canan, "A Case of Panic Attack Induced by St John’s Wort," Primary Care Companion for CNS Disorders 15, no. 1 (2013), https://doi.org/10.4088/PCC.12l01453.
+[^4]: Ian Popay, "Hypericum perforatum (St John’s wort)," CABI Compendium, 28268 (2015), https://doi.org/10.1079/cabicompendium.28268.
+[^5]: National Park Service, "Exotic Species: St. Johnswort," 2010, https://www.nps.gov/articles/st-johnswort.htm.
+[^6]: W. T. Fernie, Herbal Simples Approved for Modern Uses of Cure (Bristol: John Wright & Co., 1830), 185. Retrieved from https://babel.hathitrust.org/cgi/ssd?id=hvd.32044107263691;page=ssd;view=plaintext;seq=207;num=185#seq207.
+[^7]: Fernie, Herbal Simples, 185.
+[^8]: A. R. Vickery, "Traditional Uses and Folklore of Hypericum in the British Isles," Economic Botany 35, no. 3 (1981), 290–293, https://www.jstor.org/stable/4254297.
+[^9]: Rachel Job and Judi McGinley, "St. John’s Wort," Museum of the Order of St. John, Accessed June 25, 2025, https://museumstjohn.org.uk/st-johns-wort/.
+[^10]: Robert M. Stelmack and Anastasios Stalikas, "Galen and the Humour Theory of Temperament," Personality and Individual Differences 12, no. 3 (1991), 256–257, https://doi.org/10.1016/0191-8869(91)90111-N.
+[^11]: Stelmack and Stalikas, "Galen and the Humour Theory," 259–260.
+[^12]: Pedanius Dioscorides, De Materia Medica. Translated by Tess Anne Osbaldeston. Ibidis Press, 2000. 538.
+[^13]: Mark Blumenthal, ed., The ABC Clinical Guide to Herbs (Austin, TX: American Botanical Council), 306. Retrieved from https://abc.herbalgram.org/site/DocServer/SJW.pdf; Charles Webster, Studies in the History of Alternative Medicine (New York: Macmillan Press, 1988), 79.
+[^14]: Nicholas Culpeper, Pharmacopœia Londinensis: or, the London dispensatory further adorned by the studies and collections of the fellows now living, of the said College (London: printed for Winston Churchill, 1718), 206. Retrieved from https://go.gale.com/ps/i.do?p=ECCO&u=camb55135&id=GALE%7CCW0107150490&v=2.1&it=r&sid=bookmark-ECCO&sPage=1&asid=cb495b3e.
+[^15]: Robert Burton, The Anatomy of Melancholy (London: George Bell & Sons, 1896). Retrieved from https://archive.org/details/anatomyofmelanch0001burt/.
+[^16]: Anne Pratt, Wild Flowers (London: Society for Promoting Christian Knowledge, 1893), 110. Retrieved from https://archive.org/details/b28121338_0001/.
+[^17]: National Park Service, "Exotic Species: St. Johnswort"; Kris Zouhar, "Hypericum perforatum. In: Fire Effects Information System," United States Department of Agriculture, 2004, https://www.fs.usda.gov/database/feis/plants/forb/hypper/all.html.
+[^18]: Claire Shaver Haughton, Green Immigrants: The Plants that Transformed America (New York: Harcourt Brace Jovanovich, Inc.,1978), 347. Retrieved from https://archive.org/details/greenimmigrantsp0000haug/mode/2up.
+[^19]: Henry Muhlenberg, "Index Florae Lancastriensis,"Transactions of the American Philosophical Society 3, (1793), 175, https://www.jstor.org/stable/1004866; Frederick Pursh, Flora Americae Septentrionalis, or, A systematic arrangement and description of the plants of North America v.2 (London: White, Cochrane, & Co, 1814), 377. Retrieved from https://library.si.edu/digital-library/book/floraamericaese21814purs.
+[^20]: C. Dwight Marsh and A.B. Clawson, "Toxic Effect of St. Johnswort (Hypericum Perforatum) on Cattle and Sheep, United States Department of Agriculture, (1930), 7, https://ageconsearch.umn.edu/record/162740/files/tb202.pdf.
