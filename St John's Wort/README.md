@@ -42,10 +42,12 @@ Galen, a doctor in the second century CE who was a famous proponent of herbal re
 The first recorded use of St. John’s wort to treat depression comes from the sixteenth century and is associated with Paracelsus, a Swiss physician who renounced humoral theory and promoted alchemical cures.[^13] Other authors, including those who continued to support Galenic views, followed suit. London apothecary Nicholas Culpeper wrote in 1649 that a paste made from St. John’s wort was an "admirable remedy for melancholy."[^14] This use of the plant reflected the broader evolving ideas about melancholy and humoral theory. In 1621, another Englishman, Robert Burton, published The Anatomy of Melancholy, an erudite treatise on depression that put forward a more nuanced understanding of how the imbalance among various humors (not just the excess of black bile) can produce mental illness. Burton suggested that melancholy was a part of normal life experience and identified a wide variety of possible symptoms, underscoring the complexity of mental illness which today can be captured by dozens of separate diagnoses.[^15]
 
 This view of melancholy as part of the human experience, and St. John’s wort’s role as its potential treatment, lasted into the Victorian era, as evidenced by an 1852 poem by Alfred Lear Huxford:
-
 > "So then about her brow
+> 
 > They bound Hypericum, whose potent leaves
+> 
 > Have sovereign power o’er all the sullen fits
+> 
 > And cheerless fancies that besiege the mind;
 > Banishing ever, to their native night,
 > Dark thoughts, and causing to spring up within
