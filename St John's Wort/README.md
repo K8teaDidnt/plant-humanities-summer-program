@@ -9,23 +9,50 @@ height=100
 author="Kate Kaufman"
 layout="vertical">
 
-# This is a heading
+Zoe Dubno did not expect her life to unravel. It was on a whim that the writer began taking St. John’s wort, an over-the-counter herbal supplement marketed as a gentle alternative to antidepressants. Trusting its natural origins, she started dosing herself twice daily without consulting a doctor. Four months later, the calm she sought gave way to chaos: sudden fainting spells, spiraling paranoia, and panic attacks so severe she feared she was losing her mind.[^1]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
-## This is a smaller heading
+Dubno’s experience encapsulates the societal and scientific fascination that surrounds St. John’s wort. On anonymous forums such as Reddit and Quora, some describe the supplement working wonders, while others warn of troubling side effects.[^2] Similarly, though some double-blind laboratory studies have documented its successful depression treatment, others have found that the plant adds to mental health challenges.[^3] The controversy that surrounds the plant exemplifies how twenty-first century methods of treating depression can be products not only of scientific thinking, but also traditional cures and health fads.
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
-### This is the heading size I'll be using for my sections
 
-I want to italicize this *scientific plant name*.
+### The Devil's Scourge
 
-This **word** needs bold.
+St. John’s wort (Hypericum perforatum L.) is an unassuming plant. It stands 1-3 feet off the ground, with five-petaled yellow flowers arriving at the end of June.[^4] Its leaves and petals, which appear perforated, have translucent oil glands that release bright red pigment when squeezed.[^5] Once used to banish evil spirits, the plant was known in ancient Greece as "hypericum."[^6]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
-If I want to quote a primary source that is more than three tines, I need to use a block quote:
+In antiquity, hypericum’s bloom coincided with midsummer festivals, the time when evil spirits were considered most active. The plant played a critical role in these festivals as a means to ward off spirits and was sometimes even referred to as Fuga daemonum, a Latin phrase for "the devil’s scourge."[^7] It was commonly burned in bonfires, placed over doors, kept beneath one’s pillow, or hung in wreaths around villages on the festival’s eve to drive out demons. Later, Christianity integrated many of these pagan traditions into the feast of the Nativity of Saint John the Baptist.[^8] The plant’s red pigment became associated with the blood spilled at the saint’s beheading and led to hypericum’s more familiar name: St. John’s wort.[^9]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
-> This is a large quote!
-> 
-> It may also be a poem.
-> 
-> It looks pretty great
+
+### Evolution of Psychiatric Medicine
+
+Instead of seeing illness as caused by supernatural phenomena, ancient Greek physicians relied on physical observation of concrete symptoms. Following Hippocrates, a doctor and philosopher from the fifth century BCE, they understood health and disease in terms of humoral theory, based on four "cardinal humors" — blood, phlegm, yellow bile, and black bile — whose imbalances allegedly cause all maladies.[^10] Physicians used techniques such as bloodletting or laxatives to correct excessive humors, or by making changes in the patient’s diet.
+
+Galen, a doctor in the second century CE who was a famous proponent of herbal remedies, was another herbal theorist. He associated each humor with a particular temperament, identifying the excess of black bile as a cause of melancholy.[^11] Thanks largely to Galen’s extensive writing on the subject, humoral theory spread across Europe and subsequently scaffolded centuries of Western medicine. Despite its later popularity as an antidepressant, St. John’s wort was not associated with the treatment of melancholy at that time; instead, physicians seemed to believe that the plant could expel excess of *yellow* bile.[^12] It was thus used to treat nerve pain, to stimulate menstrual flow and after-birth, and as a salve for burns, spasms, and tetanus. Its antidepressant qualities would not be recognized for more than a millennium.
+
+The first recorded use of St. John’s wort to treat depression comes from the sixteenth century and is associated with Paracelsus, a Swiss physician who renounced humoral theory and promoted alchemical cures.[^13] Other authors, including those who continued to support Galenic views, followed suit. London apothecary Nicholas Culpeper wrote in 1649 that a paste made from St. John’s wort was an "admirable remedy for melancholy."[^14] This use of the plant reflected the broader evolving ideas about melancholy and humoral theory. In 1621, another Englishman, Robert Burton, published The Anatomy of Melancholy, an erudite treatise on depression that put forward a more nuanced understanding of how the imbalance among various humors (not just the excess of black bile) can produce mental illness. Burton suggested that melancholy was a part of normal life experience and identified a wide variety of possible symptoms, underscoring the complexity of mental illness which today can be captured by dozens of separate diagnoses.[^15]
+
+This view of melancholy as part of the human experience, and St. John’s wort’s role as its potential treatment, lasted into the Victorian era, as evidenced by an 1852 poem by Alfred Lear Huxford:
+
+> "So then about her brow
+They bound Hypericum, whose potent leaves
+Have sovereign power o’er all the sullen fits
+And cheerless fancies that besiege the mind;
+Banishing ever, to their native night,
+Dark thoughts, and causing to spring up within
+The heart distress’d, a glow of gladdening hope,
+And rainbow visions of kind destiny." 
+
+
 
 How do you make a [hyperlink](https://timeline.knightlab.com/#make)?
 
