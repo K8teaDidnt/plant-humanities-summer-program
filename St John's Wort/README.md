@@ -84,6 +84,12 @@ Although native to Europe, Western Asia, and North Africa, St. John’s wort has
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Sampson Parker Figure 2.JPG"
 	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 7.">
 
+Although native to Europe, Western Asia, and North Africa, St. John’s wort has naturalized itself in the Americas.[^17] It is possible that the plant first arrived with the proponents of a doomsday cult who disembarked in Philadelphia on Midsummer’s Eve in 1694, carrying herbs to cultivate as they awaited the world’s end.[^18] The first documented record of St. John’s wort in North America, however, came from a German missionary in 1793 Philadelphia, and the plant soon gained a reputation as a "pernicious weed."[^19] The plant spread westward with Oregon Trail pioneers, gaining the nickname "Klamath weed" when it began growing on the banks of California’s Klamath River. By 1945, St. John’s wort had claimed some 2.5 million acres of California alone, choking out native plants.[^20] Agricultural research suggests that the plant had "replaced most of the herbaceous plant cover" in certain areas, causing "enormous losses in grazing capacity."[^21]
+<param ve-image
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/51c0e1a5-a551-4e39-b8f0-fc7f796b3965.jfif"
+	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 22.">
+
+
 The plant’s abundance on grazing land was especially problematic because it was poisonous to cattle. When sheep, cows, and horses consume it in large quantities, they develop painful facial sores and scabs. The plant causes extreme light sensitivity in livestock, and eventually, the poisoned animals could die. St. John’s wort was described as "the cause of the heaviest financial losses found on pasture and range lands of California."[^22]
 <param ve-gallery
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Sampson Parker Figure 4.JPG"
