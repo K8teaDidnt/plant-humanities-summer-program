@@ -78,19 +78,19 @@ This view of melancholy as part of the human experience, and St. John’s wort�
 
 Although native to Europe, Western Asia, and North Africa, St. John’s wort has naturalized itself in the Americas.[^17] It is possible that the plant first arrived with the proponents of a doomsday cult who disembarked in Philadelphia on Midsummer’s Eve in 1694, carrying herbs to cultivate as they awaited the world’s end.[^18] The first documented record of St. John’s wort in North America, however, came from a German missionary in 1793 Philadelphia, and the plant soon gained a reputation as a "pernicious weed."[^19] The plant spread westward with Oregon Trail pioneers, gaining the nickname "Klamath weed" when it began growing on the banks of California’s Klamath River. By 1945, St. John’s wort had claimed some 2.5 million acres of California alone, choking out native plants.[^20] Agricultural research suggests that the plant had "replaced most of the herbaceous plant cover" in certain areas, causing "enormous losses in grazing capacity."[^21]
 <param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Sampson Parker Figure 11.JPG"
+	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 22.">
 <param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Sampson Parker Figure 2.JPG"
+	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 7.">
 
 The plant’s abundance on grazing land was especially problematic because it was poisonous to cattle. When sheep, cows, and horses consume it in large quantities, they develop painful facial sores and scabs. The plant causes extreme light sensitivity in livestock, and eventually, the poisoned animals could die. St. John’s wort was described as "the cause of the heaviest financial losses found on pasture and range lands of California."[^22]
-<param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
-<param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+<param ve-gallery
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Sampson Parker Figure 4.JPG"
+	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 10.">
+<param ve-gallery
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Sampson Parker Figure 5.JPG"
+	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 11.">
 
 To counter these issues, in 1944, the U.S. government imported two species of beetle that feed on St. John’s wort. Beginning with nine sites in California, tens of thousands of these insects were released, successfully reducing the presence of St. John’s wort in the state to one percent of its previous spread.[^23] Humboldt County — which includes about 60 miles of the Klamath River and was the site of the largest release of beetles — dedicated a monument to the "Klamath weed beetle" in 1958.[^24] Now, St. John’s wort is successfully contained to localized patches.
 <param ve-iframe
@@ -109,12 +109,12 @@ Chemically-produced pharmaceuticals were becoming the standard treatment in medi
                src="G8LG0OY3Izs"
                start="32:00"
                end="33:00"
-			   caption="People have opinions!">
+			   caption="">
 	   
 Pharmaceutical companies continued to prioritize the development of synthetic antidepressants. In some places such as Germany, however, the connection to herbal medicine was not entirely lost.[^31] When, in 1984, the German Federal Health Agency included St. John’s wort in a report of local herbal remedies, it considered the plant safe and effective.[^32] This endorsement caught the attention of physicians, sparking a flurry of German trials, which produced the first empirical evidence that the plant could improve the symptoms of those with mild to moderate depression. A pharmaceutical company Lichtwer Pharma introduced a high strength pill, much more convenient than to use than infusion or oil.[^33] This further boosted the popularity of the supplement. German doctors began prescribing St. John’s wort in earnest, distributing some 130 million prescriptions annually.[^34] The hype reached the English-speaking world when the *British Medical Journal* compiled a 1996 meta-analysis of twenty-three German trials of St. John’s wort.[^35]
-<param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+<param plant-specimen
+	   jpid=10.5555/al.ap.specimen.g00210207
+	   caption="*Hypericum perforatum* plant specimen collected in 1820.">
 	  
 
 ### Alternative Medicine Goes Mainstream
