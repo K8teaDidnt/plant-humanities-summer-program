@@ -28,7 +28,7 @@ St. John’s wort (*Hypericum perforatum* L.) is an unassuming plant. It stands 
 	   src="wc:Hypericum_perforatum_HC1.JPG"
 	   caption="Red pigment from a *hypericum perforatum* flower.">
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/Description, vertus et usages de sept cents dix-neuf plantes 1767.jpg"
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Description, vertus et usages de sept cents dix-neuf plantes 1767.jpg"
 	   caption="Geoffroy, *Description, vertus et usages de sept cents dix-neuf plantes*, Dumbarton Oaks Research Library and Collection, Trustees for Harvard University, Washington, D.C.">
 
 In antiquity, hypericum’s bloom coincided with midsummer festivals, the time when evil spirits were considered most active. The plant played a critical role in these festivals as a means to ward off spirits and was sometimes even referred to as *Fuga daemonum*, a Latin phrase for "the devil’s scourge."[^7] It was commonly burned in bonfires, placed over doors, kept beneath one’s pillow, or hung in wreaths around villages on the festival’s eve to drive out demons. Later, Christianity integrated many of these pagan traditions into the feast of the Nativity of Saint John the Baptist.[^8] The plant’s red pigment became associated with the blood spilled at the saint’s beheading and led to hypericum’s more familiar name: St. John’s wort.[^9]
