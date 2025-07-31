@@ -103,11 +103,9 @@ With the rise of germ theory and anatomical pathology, humoral theory gradually 
 <param ve-image
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/BMJ Column.JPG"
 	   caption="Portion of a column celebrating the 1858 Medical Act from the *British Medical Journal* Vol. 1, No. 71, page 373. Retrieved from https://www.jstor.org/stable/25192302.">
-	   
-With the rise of germ theory and anatomical pathology, humoral theory gradually fell out of favor.[^25] New-age physicians criticized "quack" herbalists for their imprecise preparations, impure ingredients, and outdated conceptions of health and disease.[^26] They scorned herbal remedies as make-believe drugs.[^27] Becoming a doctor, however, required university training and certification, raising the cost of treatment. As a result, poor families and rural communities still relied on the traditional methods and cures that they could readily access. The 1858 Medical Act in Britain further separated these professions, establishing a legally unified medical profession that excluded herbalist practice.[^28]
 <param ve-iframe
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/25192302.pdf"
-	   caption="Portion of a column celebrating the 1858 Medical Act from the *British Medical Journal* Vol. 1, No. 71, page 373. Retrieved from https://www.jstor.org/stable/25192302.">
+	   caption="Portion of a column celebrating the 1858 Medical Act from the *British Medical Journal* Vol. 1, No. 71, page 373. Retrieved from https://www.jstor.org/stable/25192302.">   
 
 Chemically-produced pharmaceuticals were becoming the standard treatment in medicine. Synthetic drugs were developed and refined, undergoing extensive trials for safety and effectiveness. In the United States, the Food and Drug Administration, founded in 1906, monitored this process, usually removing herbal remedies from medical spaces. In 1994, the FDA legalized the sale of herbal remedies on pharmacy shelves as "dietary supplements," so long as their packaging did not "diagnose, mitigate, treat, cure, or prevent a specific disease or class of diseases."[^29] For St. John’s wort, this requirement meant that it could only be advertised as a positive mood supplement, not a depression cure. Under the FDA rules, such dietary supplements are not required to specify a safe dosage or demonstrate their safety and efficacy prior to sale, providing unregulated access to such remedies, unlike doctor-approved medication.[^30]
 <param ve-video
