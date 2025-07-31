@@ -89,7 +89,7 @@ The plant’s abundance on grazing land was especially problematic because it wa
 	   undefined="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Sampson%20Parker%20Figure%204.JPG"
 	   caption="Arthur W. Sampson and Kenneth W. Parker, *St. Johnswort on range lands of California*, page 10-11.">
 <param ve-gallery
-	   undefined="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Sampson%20Parker%20Figure%205.JPG.JPG">
+	   undefined="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Sampson%20Parker%20Figure%205.JPG">
 
 To counter these issues, in 1944, the U.S. government imported two species of beetle that feed on St. John’s wort. Beginning with nine sites in California, tens of thousands of these insects were released, successfully reducing the presence of St. John’s wort in the state to one percent of its previous spread.[^23] Humboldt County — which includes about 60 miles of the Klamath River and was the site of the largest release of beetles — dedicated a monument to the "Klamath weed beetle" in 1958.[^24] Now, St. John’s wort is successfully contained to localized patches.
 <param ve-iframe
