@@ -18,15 +18,15 @@ Zoe Dubno did not expect her life to unravel. It was on a whim that the writer b
 Dubno’s experience encapsulates the societal and scientific fascination that surrounds St. John’s wort. On anonymous forums such as Reddit and Quora, some describe the supplement working wonders, while others warn of troubling side effects.[^2] Similarly, though some double-blind laboratory studies have documented its successful depression treatment, others have found that the plant *adds* to mental health challenges.[^3] The controversy that surrounds the plant exemplifies how twenty-first century methods of treating depression can be products not only of scientific thinking, but also traditional cures and health fads.
 <param ve-image
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/St. John's wort on a pharmacy shelf, June 30.JPG"
-	   caption="St. John's wort supplement on a CVS shelf in Georgetown, Washington D.C., taken June 30, 2025.">
+	   caption="St. John's wort supplement on a CVS shelf in Georgetown, Washington D.C. Photo taken June 30, 2025.">
 
 
 ### The Devil's Scourge
 
 St. John’s wort (*Hypericum perforatum* L.) is an unassuming plant. It stands 1-3 feet off the ground, with five-petaled yellow flowers arriving at the end of June.[^4] Its leaves and petals, which appear perforated, have translucent oil glands that release bright red pigment when squeezed.[^5] Once used to banish evil spirits, the plant was known in ancient Greece as "hypericum."[^6]
 <param ve-image
-	   src="wc:St._John%27s_wort_extract.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="wc:Hypericum_perforatum_HC1.JPG"
+	   caption="Red pigment from a *hypericum perforatum* flower.">
 <param ve-image
 	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
@@ -194,7 +194,7 @@ The use of herbal medicines is complicated by their chemical effects and nuanced
 
 ### References
 
-Additional images used in this essay: Banner image "St John's wort (9290733431)" by Line Sabroe via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St_John%27s_wort_(9290733431).jpg). Thumbnail imagine "" by John Doe via []().
+Additional images used in this essay: Banner image "St John's wort (9290733431)" by Line Sabroe via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St_John%27s_wort_(9290733431).jpg). Opening paragraph "Hypericum perforatum kz03" by Krzysztof Ziarnek, Kenraiz via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hypericum_perforatum_kz03.jpg). Thumbnail image "" by John Doe via []().
 
 
 ### Tools
