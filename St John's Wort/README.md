@@ -186,7 +186,8 @@ The use of herbal medicines is complicated by their chemical effects and nuanced
 	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
-
+### References
+Additional images used in this essay: Banner image by
 
 
 ### Tools
