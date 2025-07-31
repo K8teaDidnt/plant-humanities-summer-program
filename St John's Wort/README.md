@@ -71,6 +71,88 @@ This view of melancholy as part of the human experience, and St. John’s wort�
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
 
+### Taking Root Across America
+
+Although native to Europe, Western Asia, and North Africa, St. John’s wort has naturalized itself in the Americas.[^17] It is possible that the plant first arrived with the proponents of a doomsday cult who disembarked in Philadelphia on Midsummer’s Eve in 1694, carrying herbs to cultivate as they awaited the world’s end.[^18] The first documented record of St. John’s wort in North America, however, came from a German missionary in 1793 Philadelphia, and the plant soon gained a reputation as a "pernicious weed."[^19] The plant spread westward with Oregon Trail pioneers, gaining the nickname "Klamath weed" when it began growing on the banks of California’s Klamath River. By 1945, St. John’s wort had claimed some 2.5 million acres of California alone, choking out native plants.[^20] Agricultural research suggests that the plant had "replaced most of the herbaceous plant cover" in certain areas, causing "enormous losses in grazing capacity."[^21]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+
+The plant’s abundance on grazing land was especially problematic because it was poisonous to cattle. When sheep, cows, and horses consume it in large quantities, they develop painful facial sores and scabs. The plant causes extreme light sensitivity in livestock, and eventually, the poisoned animals could die. St. John’s wort was described as "the cause of the heaviest financial losses found on pasture and range lands of California."[^22]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+
+To counter these issues, in 1944, the U.S. government imported two species of beetle that feed on St. John’s wort. Beginning with nine sites in California, tens of thousands of these insects were released, successfully reducing the presence of St. John’s wort in the state to one percent of its previous spread.[^23] Humboldt County — which includes about 60 miles of the Klamath River and was the site of the largest release of beetles — dedicated a monument to the "Klamath weed beetle" in 1958.[^24] Now, St. John’s wort is successfully contained to localized patches.
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+
+
+### From Petals to Prescriptions
+
+With the rise of germ theory and anatomical pathology, humoral theory gradually fell out of favor.[^25] New-age physicians criticized "quack" herbalists for their imprecise preparations, impure ingredients, and outdated conceptions of health and disease.[^26] They scorned herbal remedies as make-believe drugs.[^27] Becoming a doctor, however, required university training and certification, raising the cost of treatment. As a result, poor families and rural communities still relied on the traditional methods and cures that they could readily access. The 1858 Medical Act in Britain further separated these professions, establishing a legally unified medical profession that excluded herbalist practice.[^28]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+
+Chemically-produced pharmaceuticals were becoming the standard treatment in medicine. Synthetic drugs were developed and refined, undergoing extensive trials for safety and effectiveness. In the United States, the Food and Drug Administration, founded in 1906, monitored this process, usually removing herbal remedies from medical spaces. In 1994, the FDA legalized the sale of herbal remedies on pharmacy shelves as "dietary supplements," so long as their packaging did not "diagnose, mitigate, treat, cure, or prevent a specific disease or class of diseases."[^29] For St. John’s wort, this requirement meant that it could only be advertised as a positive mood supplement, not a depression cure. Under the FDA rules, such dietary supplements are not required to specify a safe dosage or demonstrate their safety and efficacy prior to sale, providing unregulated access to such remedies, unlike doctor-approved medication.[^30]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
+Pharmaceutical companies continued to prioritize the development of synthetic antidepressants. In some places such as Germany, however, the connection to herbal medicine was not entirely lost.[^31] When, in 1984, the German Federal Health Agency included St. John’s wort in a report of local herbal remedies, it considered the plant safe and effective.[^32] This endorsement caught the attention of physicians, sparking a flurry of German trials, which produced the first empirical evidence that the plant could improve the symptoms of those with mild to moderate depression. A pharmaceutical company Lichtwer Pharma introduced a high strength pill, much more convenient than to use than infusion or oil.[^33] This further boosted the popularity of the supplement. German doctors began prescribing St. John’s wort in earnest, distributing some 130 million prescriptions annually.[^34] The hype reached the English-speaking world when the British Medical Journal compiled a 1996 meta-analysis of twenty-three German trials of St. John’s wort.[^35]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	  
+
+### Alternative Medicine Goes Mainstream
+
+Although many scientists and doctors in the U.S. warned that the initial German studies of St. John’s wort did not meet the FDA’s standards for approved medications, public interest spread faster than the appropriate trials could be conducted.[^36] Between 1996 and 1999, nearly a dozen books were published that championed the plant and provided evidence of patients cured by St. John’s wort. These publications encouraged readers to talk to their doctor before taking the supplement; however, many of them also included guidance for seeking out new doctors who may support alternative remedies, instructions for self-medication, and even advice for growing St. John’s wort.[^37]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
+News outlets both captured and advanced the growing interest in St. John’s wort. After its effects were highlighted in an episode of the ABC show *20/20*, the market for the supplement blossomed overnight.[^38] "Suddenly, St. John’s wort is hot," reported *TIME* magazine in 1997.[^39] "The cult of St. John’s wort just keeps winning converts," chimed in the first line of a *New York Times* article.[^40] Armed with such newspaper cutouts and booming pro-supplement books, Americans purchased St. John’s wort en masse, with its annual U.S. sales peaking at $315 million in the course of a single year.[^41] In 1998, the plant was the second highest selling herbal product in the mass market and had the fastest growth rate.[^42] "This thing has caught us so fast that we’re scrambling to catch up," Bob Bidlingmeye, vice president of the U.S. branch of Lichtwer Pharma, told *The Washington Post*.[^43]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
+### Public Appeal
+
+One reason the supplement gained so much momentum was its perceived absence of side effects compared to synthetic antidepressants such as Prozac. Treating depression can be a daunting challenge. Antidepressants are notorious for causing side effects such as weight gain, nausea, insomnia, dry mouth, and sexual dysfunction, so patients with mild or moderate depression symptoms sometimes decided against such treatments.[^44] St. John’s wort attracted those who had suffered from such synthetic treatments and became a symbol of mental health returning to the control, and judgment, of the individual.
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	
+The supplement’s easy accessibility also appealed to those rejecting the imperfect world of psychiatry. To be prescribed an antidepressant, a patient’s condition must first be diagnosed under the strictly delineated categories of the *Diagnostic and Statistical Manual of Mental Disorders*. While this system is necessary for establishing medical norms, it can fail to encapsulate the spectrum of depressive experiences, making treatments difficult to reach for those without a diagnosis. The availability of St. John’s wort on U.S. grocery store shelves without prescription can therefore be seen as a means of transcending the limitations created by these rigid diagnostic criteria, giving access to mood remedies for a broader range of patients.[^45]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	
+As a result, St. John’s wort became not only a treatment for diagnosed depression, but rather a supplement for anything that ranged from the death of a loved one to a stressful situation at work. As one of the plant’s most vocal advocates, Norman Rosenthal, put it, "if, after reflection, you feel that you are not clinically depressed, but simply overstressed or mildly down in the dumps, you may also benefit from a trial of St. John’s wort."[^46]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	
+Rather than remaining a purely medical cure, St. John’s wort became an attractive choice for proponents of an alternative lifestyle, resonating with a "natural health" movement that swept the American middle-class. Organic foods, yoga, and connection to nature were fashionable, and alternative medicines were increasingly seen as a way of opposing the greed of pharmaceutical companies.[^47] "Natural health" treatments found their champions on cable television programs, billboards, and even daytime talk shows. Herbal remedies were suddenly back in vogue, and St. John’s wort stood to benefit. "Now, for the first time, the worlds of conventional medicine and alternative healing have at last come together to embrace St. John’s wort’s exceptional powers," wrote Rosenthal in 1996.[^48] The plant’s enthusiasts were confident that owing to its natural healing qualities, it "beats Prozac hands down."[^49]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	
+
+### Too Good to Be True?
+The first blow to the plant’s credibility came in 2001, when physician-scientist Richard Shelton conducted research that compared St. John’s wort against a placebo, concluding that the supplement was not effective for treating patients with clinical major depression.[^50] Shelton’s study was met with suspicion from many members of the scientific community because of a potential conflict of interest, since Pfizer, the company that sells the prescription antidepressant Zoloft, was involved in its funding and design.  Still, this new research created fissures in the medical support for the plant, especially when a year later, a larger NIH-funded trial led by Jonathan Davidson found a "complete absence of trends suggestive of efficacy" for St. John’s wort.
+
+Supplement supporters pounced on Davidson. Because his study had screened participants for moderately severe depression, detractors argued that it "misled the public" by publishing results that did not reflect the supplement’s effectiveness in treating mild symptoms.  The study’s credibility was also called into question because its positive control, a proven antidepressant, had not been more effective than the placebo. Still, the damage was significant. "America has not been kind to St. John’s Wort," wrote the author of one editorial.  By 2006, annual sales of St. John’s wort had dropped to around $60 million.   Physicians lost interest in prescribing the supplement, even after subsequent studies partially reaffirmed its effectiveness for treating mild depression and sadness.
+
+In subsequent years, scientists uncovered an even larger problem with St. John’s wort: drug interactions. The supplement negatively impacts the work of many prescription drugs, making medications such as birth control, immunosuppressants, anti-HIV, and anti-cancer drugs less effective.  If combined with other depression medications, it can block their functionality, which can even lead to a lethal build-up of serotonin. Moreover, a series of recent cases demonstrate that St. John’s wort is particularly hazardous to those with other psychiatric disorders. For someone with psychosis, schizophrenia, or bipolar disorder, the supplement might trigger delusions and hallucinations.  This danger came to public attention with the case of Charlene Dorcy, who had been taking an anti-psychotic for schizophrenia but decided to switch to St. John’s wort, unaware that the herb was known to exacerbate psychosis. As no doctor oversaw these treatment changes, Dorcy began behaving erratically, and, on the morning of June 12, 2004, she shot and killed her two daughters. 
+
+
+
+
+
 How do you make a [hyperlink](https://timeline.knightlab.com/#make)?
 
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
