@@ -17,8 +17,7 @@ Zoe Dubno did not expect her life to unravel. It was on a whim that the writer b
 
 Dubno’s experience encapsulates the societal and scientific fascination that surrounds St. John’s wort. On anonymous forums such as Reddit and Quora, some describe the supplement working wonders, while others warn of troubling side effects.[^2] Similarly, though some double-blind laboratory studies have documented its successful depression treatment, others have found that the plant *adds* to mental health challenges.[^3] The controversy that surrounds the plant exemplifies how twenty-first century methods of treating depression can be products not only of scientific thinking, but also traditional cures and health fads.
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/St. John's wort on a pharmacy shelf, June 30.JPG"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/St. John's wort on a pharmacy shelf, June 30.JPG">
 
 
 ### The Devil's Scourge
