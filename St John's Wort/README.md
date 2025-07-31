@@ -11,14 +11,14 @@ layout="vertical">
 
 Zoe Dubno did not expect her life to unravel. It was on a whim that the writer began taking St. John’s wort, an over-the-counter herbal supplement marketed as a gentle alternative to antidepressants. Trusting its natural origins, she started dosing herself twice daily without consulting a doctor. Four months later, the calm she sought gave way to chaos: sudden fainting spells, spiraling paranoia, and panic attacks so severe she feared she was losing her mind.[^1]
 <param ve-compare
-               src="wc:St._John%27s_wort_extract.jpg"
+               src="wc:Hypericum_perforatum_kz03.jpg"
                caption="This is an extract made from a St. John's wort plant.">
 <param ve-compare
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'>
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Holding the supplement, June 30.HEIC">
 
 Dubno’s experience encapsulates the societal and scientific fascination that surrounds St. John’s wort. On anonymous forums such as Reddit and Quora, some describe the supplement working wonders, while others warn of troubling side effects.[^2] Similarly, though some double-blind laboratory studies have documented its successful depression treatment, others have found that the plant *adds* to mental health challenges.[^3] The controversy that surrounds the plant exemplifies how twenty-first century methods of treating depression can be products not only of scientific thinking, but also traditional cures and health fads.
 <param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/SJWdelany1.jpg"
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
 
@@ -186,8 +186,6 @@ In summary, despite their popular appeal, such unregulated substances can ultima
 <param ve-iframe
 	   src="https://x.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw"
 	   caption="socio-demographic index.">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FDA’s war on public health is about to end. This includes its aggressive suppression of psychedelics, peptides, stem cells, raw milk, hyperbaric therapies, chelating compounds, ivermectin, hydroxychloroquine, vitamins, clean foods, sunshine, exercise, nutraceuticals and anything…</p>&mdash; Robert F. Kennedy Jr (@RobertKennedyJr) <a href="https://twitter.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw">October 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 The use of herbal medicines is complicated by their chemical effects and nuanced cultural history. St. John’s wort epitomizes what has been lost in the schism between traditional and contemporary medicine: its benefits are not fully utilized, while its dangers go unacknowledged. Medicine is historically rooted in plants as *[materia medica]*(https://timeline.knightlab.com/#make), and severing today’s treatments from traditional medicine means rejecting thousands of years of traditional knowledge. Still, for the treatment of patients suffering from depression, modern scientific standards are unquestionably necessary.[^65] Safe and effective mental health treatments will have to come from a close dialogue between traditional wisdom and laboratory expertise.[^66]
 <param ve-image
