@@ -36,13 +36,21 @@ In antiquity, hypericum’s bloom coincided with midsummer festivals, the time w
 ### Evolution of Psychiatric Medicine
 
 Instead of seeing illness as caused by supernatural phenomena, ancient Greek physicians relied on physical observation of concrete symptoms. Following Hippocrates, a doctor and philosopher from the fifth century BCE, they understood health and disease in terms of humoral theory, based on four "cardinal humors" — blood, phlegm, yellow bile, and black bile — whose imbalances allegedly cause all maladies.[^10] Physicians used techniques such as bloodletting or laxatives to correct excessive humors, or by making changes in the patient’s diet.
-
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
 Galen, a doctor in the second century CE who was a famous proponent of herbal remedies, was another herbal theorist. He associated each humor with a particular temperament, identifying the excess of black bile as a cause of melancholy.[^11] Thanks largely to Galen’s extensive writing on the subject, humoral theory spread across Europe and subsequently scaffolded centuries of Western medicine. Despite its later popularity as an antidepressant, St. John’s wort was not associated with the treatment of melancholy at that time; instead, physicians seemed to believe that the plant could expel excess of *yellow* bile.[^12] It was thus used to treat nerve pain, to stimulate menstrual flow and after-birth, and as a salve for burns, spasms, and tetanus. Its antidepressant qualities would not be recognized for more than a millennium.
-
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
 The first recorded use of St. John’s wort to treat depression comes from the sixteenth century and is associated with Paracelsus, a Swiss physician who renounced humoral theory and promoted alchemical cures.[^13] Other authors, including those who continued to support Galenic views, followed suit. London apothecary Nicholas Culpeper wrote in 1649 that a paste made from St. John’s wort was an "admirable remedy for melancholy."[^14] This use of the plant reflected the broader evolving ideas about melancholy and humoral theory. In 1621, another Englishman, Robert Burton, published The Anatomy of Melancholy, an erudite treatise on depression that put forward a more nuanced understanding of how the imbalance among various humors (not just the excess of black bile) can produce mental illness. Burton suggested that melancholy was a part of normal life experience and identified a wide variety of possible symptoms, underscoring the complexity of mental illness which today can be captured by dozens of separate diagnoses.[^15]
-
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   
 This view of melancholy as part of the human experience, and St. John’s wort’s role as its potential treatment, lasted into the Victorian era, as evidenced by an 1852 poem by Alfred Lear Huxford:
-
 > "So then about her brow
 > 
 > They bound Hypericum, whose potent leaves
@@ -57,8 +65,10 @@ This view of melancholy as part of the human experience, and St. John’s wort�
 > 
 > The heart distress’d, a glow of gladdening hope,
 > 
-> And rainbow visions of kind destiny." 
-
+> And rainbow visions of kind destiny." [^16]
+<param ve-image
+	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
 
 How do you make a [hyperlink](https://timeline.knightlab.com/#make)?
