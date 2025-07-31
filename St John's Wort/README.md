@@ -49,9 +49,13 @@ This view of melancholy as part of the human experience, and St. John’s wort�
 > Have sovereign power o’er all the sullen fits
 > 
 > And cheerless fancies that besiege the mind;
+> 
 > Banishing ever, to their native night,
+> 
 > Dark thoughts, and causing to spring up within
+> 
 > The heart distress’d, a glow of gladdening hope,
+> 
 > And rainbow visions of kind destiny." 
 
 
