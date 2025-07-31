@@ -44,13 +44,13 @@ The first recorded use of St. John’s wort to treat depression comes from the s
 This view of melancholy as part of the human experience, and St. John’s wort’s role as its potential treatment, lasted into the Victorian era, as evidenced by an 1852 poem by Alfred Lear Huxford:
 
 > "So then about her brow
-They bound Hypericum, whose potent leaves
-Have sovereign power o’er all the sullen fits
-And cheerless fancies that besiege the mind;
-Banishing ever, to their native night,
-Dark thoughts, and causing to spring up within
-The heart distress’d, a glow of gladdening hope,
-And rainbow visions of kind destiny." 
+> They bound Hypericum, whose potent leaves
+> Have sovereign power o’er all the sullen fits
+> And cheerless fancies that besiege the mind;
+> Banishing ever, to their native night,
+> Dark thoughts, and causing to spring up within
+> The heart distress’d, a glow of gladdening hope,
+> And rainbow visions of kind destiny." 
 
 
 
