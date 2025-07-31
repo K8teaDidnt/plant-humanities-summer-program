@@ -11,7 +11,7 @@ layout="vertical">
 Zoe Dubno did not expect her life to unravel. It was on a whim that the writer began taking St. John’s wort, an over-the-counter herbal supplement marketed as a gentle alternative to antidepressants. Trusting its natural origins, she started dosing herself twice daily without consulting a doctor. Four months later, the calm she sought gave way to chaos: sudden fainting spells, spiraling paranoia, and panic attacks so severe she feared she was losing her mind.[^1]
 <param ve-compare
                src="wc:Hypericum_perforatum_kz03.jpg"
-               caption="This is an extract made from a St. John's wort plant.">
+               caption="The St. John's wort supplement is made from portions of the plant's blooms.">
 <param ve-compare
 	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Holding the supplement, June 30.jpg">
 
@@ -41,15 +41,14 @@ In antiquity, hypericum’s bloom coincided with midsummer festivals, the time w
 
 Instead of seeing illness as caused by supernatural phenomena, ancient Greek physicians relied on physical observation of concrete symptoms. Following Hippocrates, a doctor and philosopher from the fifth century BCE, they understood health and disease in terms of humoral theory, based on four "cardinal humors" — blood, phlegm, yellow bile, and black bile — whose imbalances allegedly cause all maladies.[^10] Physicians used techniques such as bloodletting or laxatives to correct excessive humors, or by making changes in the patient’s diet.
 <param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="wc:Blood_letting.jpg"
+	   caption="Physician letting blood from a patient. British Library, London. Aldobrandino of Siena: Li Livres dou Santé. France, late 13th Century.">
 	   
 Galen, a doctor in the second century CE who was a famous proponent of herbal remedies, was another herbal theorist. He associated each humor with a particular temperament, identifying the excess of black bile as a cause of melancholy.[^11] Thanks largely to Galen’s extensive writing on the subject, humoral theory spread across Europe and subsequently scaffolded centuries of Western medicine. Despite its later popularity as an antidepressant, St. John’s wort was not associated with the treatment of melancholy at that time; instead, physicians seemed to believe that the plant could expel excess of *yellow* bile.[^12] It was thus used to treat nerve pain, to stimulate menstrual flow and after-birth, and as a salve for burns, spasms, and tetanus. Its antidepressant qualities would not be recognized for more than a millennium.
 <param ve-video
-               src="5jWsm_XwUxc"
+               src="9k4RzFe6s8o"
                start="7:54"
-               end="9:32"
-			   caption="People have opinions!">
+               end="9:32">
 	   
 The first recorded use of St. John’s wort to treat depression comes from the sixteenth century and is associated with Paracelsus, a Swiss physician who renounced humoral theory and promoted alchemical cures.[^13] Other authors, including those who continued to support Galenic views, followed suit. London apothecary Nicholas Culpeper wrote in 1649 that a paste made from St. John’s wort was an "admirable remedy for melancholy."[^14] This use of the plant reflected the broader evolving ideas about melancholy and humoral theory. In 1621, another Englishman, Robert Burton, published *The Anatomy of Melancholy*, an erudite treatise on depression that put forward a more nuanced understanding of how the imbalance among various humors (not just the excess of black bile) can produce mental illness. Burton suggested that melancholy was a part of normal life experience and identified a wide variety of possible symptoms, underscoring the complexity of mental illness which today can be captured by dozens of separate diagnoses.[^15]
 
