@@ -120,8 +120,8 @@ Pharmaceutical companies continued to prioritize the development of synthetic an
 
 Although many scientists and doctors in the U.S. warned that the initial German studies of St. John’s wort did not meet the FDA’s standards for approved medications, public interest spread faster than the appropriate trials could be conducted.[^36] Between 1996 and 1999, nearly a dozen books were published that championed the plant and provided evidence of patients cured by St. John’s wort. These publications encouraged readers to talk to their doctor before taking the supplement; however, many of them also included guidance for seeking out new doctors who may support alternative remedies, instructions for self-medication, and even advice for growing St. John’s wort.[^37]
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St. John's Wort/Books Collage.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Books%20Collage.jpg"
+	   caption="A selection of books published between 1996 and 1999, many of whose covers evoke the natural properties of the St. John's wort supplement.">
 	   
 News outlets both captured and advanced the growing interest in St. John’s wort. After its effects were highlighted in an episode of the ABC show *20/20*, the market for the supplement blossomed overnight.[^38] "Suddenly, St. John’s wort is hot," reported *TIME* magazine in 1997.[^39] "The cult of St. John’s wort just keeps winning converts," chimed in the first line of a *New York Times* article.[^40] Armed with such newspaper cutouts and booming pro-supplement books, Americans purchased St. John’s wort en masse, with its annual U.S. sales peaking at $315 million in the course of a single year.[^41] In 1998, the plant was the second highest selling herbal product in the mass market and had the fastest growth rate.[^42] "This thing has caught us so fast that we’re scrambling to catch up," Bob Bidlingmeye, vice president of the U.S. branch of Lichtwer Pharma, told *The Washington Post*.[^43]
 <param ve-image
