@@ -80,6 +80,40 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. Here's embedding a website.
 <param ve-iframe
 	   src="https://pmc.ncbi.nlm.nih.gov/articles/PMC7056460/">
+	   
+### This is a basic map
+
+Have a comma but no space between your longitude and latitude.
+<param ve-map
+	   center="38.91588,-77.06338"
+	   zoom="16"
+	   caption="This is the location of Dumbarton Oaks in Washington, D.C.">
+
+You can put a QID from Wikidata instead of coordinates.
+<param ve-map
+	   center="Q9679"
+	   zoom="10"
+	   caption="This is the Isle of Wight.">
+	   
+Additionally, you can use the url from openstreetmap.org which gives you the coordinates.
+<param ve-map
+	   center="42.37364,-71.11643"
+	   zoom="15"
+	   caption="Here's Harvard University.">
+	   
+Using geojson.io, you can also add arrows and highlighted sections, along with map markers: images pulled from wikimedia commons. Use the draw polygon button, click on the polygon to change color and line width, then click save. Copy the generated code from the right-hand side and paste it into github in a new "map.json" file. Commit changes. Open the file, click on raw, then copy the URL. Paste as a layer, removing "ref/heads". You can draw arrows on geojson to add them, and include images as markers at certain locations.
+<param ve-map prefer-geojson
+	   center="19.62,-42.73"
+	   zoom="1.85"
+	   caption="This is a map of SJW's transition from Europe to the U.S.">
+<param ve-map-layer geojson
+	   url="https://raw.githubusercontent.com/K8teaDidnt/plant-humanities-summer-program/main/session-four/map.json"
+	   show-labels
+	   stroke-width="2">
+<param ve-map-marker
+	   url="wc:Hypericum_cerastioides_Silvana_-_St._John%27s_Wort.jpg"
+	   coords="44.0637,-70.0550"
+	   circle=True>
 
 [^1]: This is the first footnote.
 [^2]: Jonathan Zuess, The Natural Prozac Program: How to Use St. John’s Wort, the Antidepressant Herb (New York: Three Rivers Press, 1997) 32. Retrieved from https://archive.org/details/naturalprozacpro00zues/.
