@@ -141,29 +141,28 @@ The supplement’s easy accessibility also appealed to those rejecting the imper
 	
 As a result, St. John’s wort became not only a treatment for diagnosed depression, but rather a supplement for anything that ranged from the death of a loved one to a stressful situation at work. As one of the plant’s most vocal advocates, Norman Rosenthal, put it, "if, after reflection, you feel that you are not clinically depressed, but simply overstressed or mildly down in the dumps, you may also benefit from a trial of St. John’s wort."[^46]
 <param ve-iframe
-	   src="https://ars.els-cdn.com/content/image/1-s2.0-S0022395619307381-gr2.jpg">
+	   src="https://ars.els-cdn.com/content/image/1-s2.0-S0022395619307381-gr2.jpg"
+	   caption="socio-demographic index.">
 	
 Rather than remaining a purely medical cure, St. John’s wort became an attractive choice for proponents of an alternative lifestyle, resonating with a "natural health" movement that swept the American middle-class. Organic foods, yoga, and connection to nature were fashionable, and alternative medicines were increasingly seen as a way of opposing the greed of pharmaceutical companies.[^47] "Natural health" treatments found their champions on cable television programs, billboards, and even daytime talk shows. Herbal remedies were suddenly back in vogue, and St. John’s wort stood to benefit. "Now, for the first time, the worlds of conventional medicine and alternative healing have at last come together to embrace St. John’s wort’s exceptional powers," wrote Rosenthal in 1996.[^48] The plant’s enthusiasts were confident that owing to its natural healing qualities, it "beats Prozac hands down."[^49]
-<param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+<param ve-video
+               src="td-joVR81FU"
+			   caption="People have opinions!">
 	
 
 ### Too Good to Be True?
 The first blow to the plant’s credibility came in 2001, when physician-scientist Richard Shelton conducted research that compared St. John’s wort against a placebo, concluding that the supplement was not effective for treating patients with clinical major depression.[^50] Shelton’s study was met with suspicion from many members of the scientific community because of a potential conflict of interest, since Pfizer, the company that sells the prescription antidepressant Zoloft, was involved in its funding and design.[^51] Still, this new research created fissures in the medical support for the plant, especially when a year later, a larger NIH-funded trial led by Jonathan Davidson found a "complete absence of trends suggestive of efficacy" for St. John’s wort.[^52]
-<param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+<param ve-iframe
+	   src="https://cdn.jamanetwork.com/ama/content_public/journal/jama/4780/joc02013t1.png?Expires=1756173615&Signature=l-8nBoCKDmRHa0FjCqMPzGMv4XzwWVT5cwswIBXU9kI~OzHhoKb6TAZUnckeRwRlHWVh1UIKXLZbgD8QbPjgjWugk-UYvoFy99RY8-ITeTkYsYMIg0UAwJUHrx5UMqA-HdXHNLjXalbjpdzuGNp~p-xmy00RwBUNdRAwQEvrK~kIzhAfhdKW4~-tphibjiDj4OeYKS2vII3vsaBplUMbi0QU0pib1OU-dMemDe~zn2bgFT3xcMffDRn70kS3rAnlLJetx~anbyepb9mjb7j3Nbk94tIO1ZHcY7xNtFTwcn5xzeciUMBijjXinXwyLFGAi4iVZUT7SIpFAsTxk7EVnQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+	   caption="socio-demographic index.">
 	
 Supplement supporters pounced on Davidson. Because his study had screened participants for moderately severe depression, detractors argued that it "misled the public" by publishing results that did not reflect the supplement’s effectiveness in treating mild symptoms.[^53] The study’s credibility was also called into question because its positive control, a proven antidepressant, had not been more effective than the placebo. Still, the damage was significant. "America has not been kind to St. John’s Wort," wrote the author of one editorial.[^54] By 2006, annual sales of St. John’s wort had dropped to around $60 million.[^55] Physicians lost interest in prescribing the supplement, even after subsequent studies partially reaffirmed its effectiveness for treating mild depression and sadness.
 <param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 	
 In subsequent years, scientists uncovered an even larger problem with St. John’s wort: drug interactions. The supplement negatively impacts the work of many prescription drugs, making medications such as birth control, immunosuppressants, anti-HIV, and anti-cancer drugs less effective.[^56] If combined with other depression medications, it can block their functionality, which can even lead to a lethal build-up of serotonin. Moreover, a series of recent cases demonstrate that St. John’s wort is particularly hazardous to those with other psychiatric disorders. For someone with psychosis, schizophrenia, or bipolar disorder, the supplement might trigger delusions and hallucinations.[^57] This danger came to public attention with the case of Charlene Dorcy, who had been taking an anti-psychotic for schizophrenia but decided to switch to St. John’s wort, unaware that the herb was known to exacerbate psychosis. As no doctor oversaw these treatment changes, Dorcy began behaving erratically, and, on the morning of June 12, 2004, she shot and killed her two daughters.[^58]
-<param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+
 	
 	
 ### A Modern Lens
@@ -175,22 +174,22 @@ Zoe Dubno’s article "Supplements Made Me Lose My Mind" explains her rationale 
 	
 "I figured the supplements could only help. And if they did nothing, then I’d at least enjoy the positive placebo effect of participating in self-care," Dubno wrote.[^60] Misguided reasons for believing St. John’s wort is safe — that it is natural, sold over the counter, or just another pseudoscientific supplement — obscures its real risks and damages the broader credibility of herbal treatments. The ready availability of such supplements further increases the likelihood of irresponsible self-administration. In the case of Dubno, she stopped taking St. John’s wort abruptly instead of weaning as one would with an antidepressant, leading to severe abdomen pain, fainting, panic attacks, and paranoia.
 <param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 	
 Dubno’s final reason for taking St. John’s wort was that she was "nearly phobic" of psychiatric medication. Many people distrust pharmaceuticals because the severe side effects of antidepressants can feel like choosing between bad and worse.[^61] It can be difficult to find personalized support when navigating prescriptions (Dubno describes having to schedule appointments with her doctor six months in advance). During such appointments, patients often do not disclose the herbal remedies they take because they presume their doctors hold bias against the use of supplements.[^62] In fact, when Dubno began experiencing psychological distress, she met with several doctors before acknowledging the connection between her symptoms and the supplement, thereby delaying effective treatment.
 <param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 	
 In summary, despite their popular appeal, such unregulated substances can ultimately prove dangerous. As recently as 2025, the United States Secretary of Health and Human Services Robert F. Kennedy Jr. has argued against the "aggressive suppression" of the 1994 FDA law that authorized such controversial cures as dietary supplements, encouraging their manufacturers to make bolder claims about the effectiveness of these drugs to receive government subsidies.[^63] For supplements such as St. John’s wort, which can lead extreme mental and physical effects if improperly administered, less regulation can only increase potential risks for people in search of mental support. By contrast, standardized dosages across brands and mandatory warning labels listing drug interactions could go a long way toward improving the supplement’s safety.[^64]
-<param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+<param ve-iframe
+	   src="https://x.com/RobertKennedyJr/status/1849925311586238737"
+	   caption="socio-demographic index.">
 	
 The use of herbal medicines is complicated by their chemical effects and nuanced cultural history. St. John’s wort epitomizes what has been lost in the schism between traditional and contemporary medicine: its benefits are not fully utilized, while its dangers go unacknowledged. Medicine is historically rooted in plants as *[materia medica]*(https://timeline.knightlab.com/#make), and severing today’s treatments from traditional medicine means rejecting thousands of years of traditional knowledge. Still, for the treatment of patients suffering from depression, modern scientific standards are unquestionably necessary.[^65] Safe and effective mental health treatments will have to come from a close dialogue between traditional wisdom and laboratory expertise.[^66]
 <param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
+	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
 	   caption="This is an image of a bush of blooming St. John's wort flowers.">
 
 
