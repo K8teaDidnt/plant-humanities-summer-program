@@ -136,7 +136,6 @@ One reason the supplement gained so much momentum was its perceived absence of s
 	   src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9526892_IJBMS-25-1045-g002.jpg"
 	   caption="The pharmacological effects of *Hypericum perforatum* in '*Hypericum perforatum*: Traditional uses, clinical trials, and drug interactions'. Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC9526892/.">
 
-	
 The supplement’s easy accessibility also appealed to those rejecting the imperfect world of psychiatry. To be prescribed an antidepressant, a patient’s condition must first be diagnosed under the strictly delineated categories of the *Diagnostic and Statistical Manual of Mental Disorders*. While this system is necessary for establishing medical norms, it can fail to encapsulate the spectrum of depressive experiences, making treatments difficult to reach for those without a diagnosis. The availability of St. John’s wort on U.S. grocery store shelves without prescription can therefore be seen as a means of transcending the limitations created by these rigid diagnostic criteria, giving access to mood remedies for a broader range of patients.[^45]
 <param ve-iframe
 	   src="https://www.ncbi.nlm.nih.gov/books/NBK36406/table/ch1.t1/">
