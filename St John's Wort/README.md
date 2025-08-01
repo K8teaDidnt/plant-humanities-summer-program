@@ -13,11 +13,11 @@ Zoe Dubno did not expect her life to unravel. It was on a whim that the writer b
                src="wc:Hypericum_perforatum_kz03.jpg"
                caption="The St. John's wort supplement is made from portions of the plant's blooms.">
 <param ve-compare
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Holding the supplement, June 30.jpg">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Holding%20the%20supplement%2C%20June%2030.jpg">
 
 Dubno’s experience encapsulates the societal and scientific fascination that surrounds St. John’s wort. On anonymous forums such as Reddit and Quora, some describe the supplement working wonders, while others warn of troubling side effects.[^2] Similarly, though some double-blind laboratory studies have documented its successful depression treatment, others have found that the plant *adds* to mental health challenges.[^3] The controversy that surrounds the plant exemplifies how twenty-first century methods of treating depression can be products not only of scientific thinking, but also traditional cures and health fads.
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/St. John's wort on a pharmacy shelf, June 30.JPG"
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/St.%20John's%20wort%20on%20a%20pharmacy%20shelf%2C%20June%2030.JPG"
 	   caption="St. John's wort supplement on a CVS shelf in Georgetown, Washington D.C. Photo taken June 30, 2025.">
 
 
@@ -28,12 +28,12 @@ St. John’s wort (*Hypericum perforatum* L.) is an unassuming plant. It stands 
 	   src="wc:Hypericum_perforatum_HC1.JPG"
 	   caption="Red pigment from a *hypericum perforatum* flower.">
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/Description, vertus et usages de sept cents dix-neuf plantes 1767.jpg"
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Description%2C%20vertus%20et%20usages%20de%20sept%20cents%20dix-neuf%20plantes%201767.jpg"
 	   caption="Geoffroy, *Description, vertus et usages de sept cents dix-neuf plantes*, Dumbarton Oaks Research Library and Collection, Trustees for Harvard University, Washington, D.C.">
 
 In antiquity, hypericum’s bloom coincided with midsummer festivals, the time when evil spirits were considered most active. The plant played a critical role in these festivals as a means to ward off spirits and was sometimes even referred to as *Fuga daemonum*, a Latin phrase for "the devil’s scourge."[^7] It was commonly burned in bonfires, placed over doors, kept beneath one’s pillow, or hung in wreaths around villages on the festival’s eve to drive out demons. Later, Christianity integrated many of these pagan traditions into the feast of the Nativity of Saint John the Baptist.[^8] The plant’s red pigment became associated with the blood spilled at the saint’s beheading and led to hypericum’s more familiar name: St. John’s wort.[^9]
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St John's Wort/uvmcdi55290-027.jpg"
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/uvmcdi55290-027.jpg"
 	   caption="Depiction of using St. John's wort to ward off a demon. From *Italian Herbal*, 1475-1525. Retrieved from https://digitalcollections.uvm.edu/view/mrmc002/italian-herbal">
 
 
