@@ -1,8 +1,8 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-title="St. John's Wort"    
-source-image="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Herbarium%20Blackwellianum%20emendatum%20et%20auctum%2C%20idest%2C%20Collectio%20stirpium.jpg" 
+title="St. John's Wort"
+source-image="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Herbarium%20Blackwellianum%20emendatum%20et%20auctum%2C%20idest%2C%20Collectio%20stirpium.jpg"
 banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/St._John%27s_wort_%2850050399481%29.jpg" 
 height=100
 author="Kate Kaufman"
@@ -132,6 +132,8 @@ News outlets both captured and advanced the growing interest in St. John’s wor
 ### Public Appeal
 
 One reason the supplement gained so much momentum was its perceived absence of side effects compared to synthetic antidepressants such as Prozac. Treating depression can be a daunting challenge. Antidepressants are notorious for causing side effects such as weight gain, nausea, insomnia, dry mouth, and sexual dysfunction, so patients with mild or moderate depression symptoms sometimes decided against such treatments.[^44] St. John’s wort attracted those who had suffered from such synthetic treatments and became a symbol of mental health returning to the control, and judgment, of the individual.
+<param ve-iframe
+	   src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9526892_IJBMS-25-1045-g002.jpg">
 
 	
 The supplement’s easy accessibility also appealed to those rejecting the imperfect world of psychiatry. To be prescribed an antidepressant, a patient’s condition must first be diagnosed under the strictly delineated categories of the *Diagnostic and Statistical Manual of Mental Disorders*. While this system is necessary for establishing medical norms, it can fail to encapsulate the spectrum of depressive experiences, making treatments difficult to reach for those without a diagnosis. The availability of St. John’s wort on U.S. grocery store shelves without prescription can therefore be seen as a means of transcending the limitations created by these rigid diagnostic criteria, giving access to mood remedies for a broader range of patients.[^45]
