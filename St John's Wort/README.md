@@ -113,8 +113,8 @@ Chemically-produced pharmaceuticals were becoming the standard treatment in medi
 	   
 Pharmaceutical companies continued to prioritize the development of synthetic antidepressants. In some places such as Germany, however, the connection to herbal medicine was not entirely lost.[^31] When, in 1984, the German Federal Health Agency included St. John’s wort in a report of local herbal remedies, it considered the plant safe and effective.[^32] This endorsement caught the attention of physicians, sparking a flurry of German trials, which produced the first empirical evidence that the plant could improve the symptoms of those with mild to moderate depression. A pharmaceutical company Lichtwer Pharma introduced a high strength pill, much more convenient than to use than infusion or oil.[^33] This further boosted the popularity of the supplement. German doctors began prescribing St. John’s wort in earnest, distributing some 130 million prescriptions annually.[^34] The hype reached the English-speaking world when the *British Medical Journal* compiled a 1996 meta-analysis of twenty-three German trials of St. John’s wort.[^35]
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/plant%20specimen.jfif"
-	   caption="*Hypericum perforatum* plant specimen collected in 1820.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/resolver.jpg"
+	   caption="*Hypericum perforatum* plant specimen collected in 1820. From https://plants.jstor.org/stable/10.5555/al.ap.specimen.g00210207.">
 	  
 
 ### Alternative Medicine Goes Mainstream
