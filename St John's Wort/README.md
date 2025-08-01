@@ -125,7 +125,7 @@ Although many scientists and doctors in the U.S. warned that the initial German 
 	   
 News outlets both captured and advanced the growing interest in St. John’s wort. After its effects were highlighted in an episode of the ABC show *20/20*, the market for the supplement blossomed overnight.[^38] "Suddenly, St. John’s wort is hot," reported *TIME* magazine in 1997.[^39] "The cult of St. John’s wort just keeps winning converts," chimed in the first line of a *New York Times* article.[^40] Armed with such newspaper cutouts and booming pro-supplement books, Americans purchased St. John’s wort en masse, with its annual U.S. sales peaking at $315 million in the course of a single year.[^41] In 1998, the plant was the second highest selling herbal product in the mass market and had the fastest growth rate.[^42] "This thing has caught us so fast that we’re scrambling to catch up," Bob Bidlingmeye, vice president of the U.S. branch of Lichtwer Pharma, told *The Washington Post*.[^43]
 <param ve-image
-	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/St%20John's%20Wort/Headline%20Collage%201.jpg"
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Headline%20Collage%201.jpg"
 	   caption="Headlines reflecting the boom in popularity of St. John's wort.">
 	   
 ### Public Appeal
