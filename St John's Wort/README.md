@@ -169,28 +169,27 @@ In subsequent years, scientists uncovered an even larger problem with St. John�
 
 Zoe Dubno’s article "Supplements Made Me Lose My Mind" explains her rationale behind taking St. John’s wort. Dubno, who did not believe she had clinical depression, saw her reoccurring bad moods as a combination of personality traits, bad weather, and a frustrating job. Although a therapist confirmed that she was not depressed, yet Dubno "just wanted to be in a positive mood all the time" and decided to give St. John’s wort a try.[^59] While supplements such as St. John’s wort can be valuable for addressing long-term dejection that may not be captured by diagnosis criteria, they are also an appealing way to avoid uncomfortable emotions. The very existence of a "mood booster" on a pharmacy shelf suggests escapism rather than facing the challenge of lifestyle changes and self-discovery, blurring the distinction between pathology and naturally occurring sadness.
 <param ve-image
-	   src="wc:St._John%27s_wort,_Eschenhahn.jpg"
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="wc:VitaminSupplementPills.jpg"
+	   caption="Over-the-counter vitamins and supplements.">
 	
 "I figured the supplements could only help. And if they did nothing, then I’d at least enjoy the positive placebo effect of participating in self-care," Dubno wrote.[^60] Misguided reasons for believing St. John’s wort is safe — that it is natural, sold over the counter, or just another pseudoscientific supplement — obscures its real risks and damages the broader credibility of herbal treatments. The ready availability of such supplements further increases the likelihood of irresponsible self-administration. In the case of Dubno, she stopped taking St. John’s wort abruptly instead of weaning as one would with an antidepressant, leading to severe abdomen pain, fainting, panic attacks, and paranoia.
 <param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Holding%20St.%20John's%20wort%20in%20a%20pharmacy%2C%20June%2030.JPG"
+	   caption="St. John's wort supplement in the supplements isle of a CVS in Georgetown, Washington D.C. Photo taken June 30, 2025.">
 	
 Dubno’s final reason for taking St. John’s wort was that she was "nearly phobic" of psychiatric medication. Many people distrust pharmaceuticals because the severe side effects of antidepressants can feel like choosing between bad and worse.[^61] It can be difficult to find personalized support when navigating prescriptions (Dubno describes having to schedule appointments with her doctor six months in advance). During such appointments, patients often do not disclose the herbal remedies they take because they presume their doctors hold bias against the use of supplements.[^62] In fact, when Dubno began experiencing psychological distress, she met with several doctors before acknowledging the connection between her symptoms and the supplement, thereby delaying effective treatment.
 <param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/thomas-hoang-_9Cdw2Q6ZiI-unsplash.jpg"
+	   caption="Photo by [Thomas Hoang](https://unsplash.com/@megatunger?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-sheet-_9Cdw2Q6ZiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).">
 	
 In summary, despite their popular appeal, such unregulated substances can ultimately prove dangerous. As recently as 2025, the United States Secretary of Health and Human Services Robert F. Kennedy Jr. has argued against the "aggressive suppression" of the 1994 FDA law that authorized such controversial cures as dietary supplements, encouraging their manufacturers to make bolder claims about the effectiveness of these drugs to receive government subsidies.[^63] For supplements such as St. John’s wort, which can lead extreme mental and physical effects if improperly administered, less regulation can only increase potential risks for people in search of mental support. By contrast, standardized dosages across brands and mandatory warning labels listing drug interactions could go a long way toward improving the supplement’s safety.[^64]
 <param ve-iframe
-	   src="https://x.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw"
-	   caption="socio-demographic index.">
+	   src="https://x.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw">
 
 The use of herbal medicines is complicated by their chemical effects and nuanced cultural history. St. John’s wort epitomizes what has been lost in the schism between traditional and contemporary medicine: its benefits are not fully utilized, while its dangers go unacknowledged. Medicine is historically rooted in plants as *[materia medica](Q1291275)*, and severing today’s treatments from traditional medicine means rejecting thousands of years of traditional knowledge. Still, for the treatment of patients suffering from depression, modern scientific standards are unquestionably necessary.[^65] Safe and effective mental health treatments will have to come from a close dialogue between traditional wisdom and laboratory expertise.[^66]
 <param ve-image
-	   src='gh:K8teaDidnt/plant-humanities-summer-program/main/session-two/SJWdelany1.jpg'
-	   caption="This is an image of a bush of blooming St. John's wort flowers.">
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/Herbarium%20Blackwellianum%20emendatum%20et%20auctum%2C%20idest%2C%20Collectio%20stirpium.jpg"
+	   caption="Blackwell, *Herbarium Blackwellanum v.1*, Dumbarton Oaks Research Library and Collection, Trustees for Harvard University, Washington, DC.">
 
 
 ### References
