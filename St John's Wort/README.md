@@ -160,7 +160,9 @@ Supplement supporters pounced on Davidson. Because his study had screened partic
 	   caption="Headlines reflecting the changing perception of St. John's wort supplement following Davidson's publication.">
 	
 In subsequent years, scientists uncovered an even larger problem with St. John’s wort: drug interactions. The supplement negatively impacts the work of many prescription drugs, making medications such as birth control, immunosuppressants, anti-HIV, and anti-cancer drugs less effective.[^56] If combined with other depression medications, it can block their functionality, which can even lead to a lethal build-up of serotonin. Moreover, a series of recent cases demonstrate that St. John’s wort is particularly hazardous to those with other psychiatric disorders. For someone with psychosis, schizophrenia, or bipolar disorder, the supplement might trigger delusions and hallucinations.[^57] This danger came to public attention with the case of Charlene Dorcy, who had been taking an anti-psychotic for schizophrenia but decided to switch to St. John’s wort, unaware that the herb was known to exacerbate psychosis. As no doctor oversaw these treatment changes, Dorcy began behaving erratically, and, on the morning of June 12, 2004, she shot and killed her two daughters.[^58]
-
+<param ve-image
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/supliful-supplements-on-demand-UTPZnnEVW4E-unsplash.jpg"
+	   caption="Photo by [Supliful - Supplements On Demand](https://unsplash.com/@supliful?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-nuts-and-a-plant-UTPZnnEVW4E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).">
 	
 	
 ### A Modern Lens
