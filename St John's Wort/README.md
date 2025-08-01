@@ -145,7 +145,7 @@ As a result, St. John’s wort became not only a treatment for diagnosed depress
 Rather than remaining a purely medical cure, St. John’s wort became an attractive choice for proponents of an alternative lifestyle, resonating with a "natural health" movement that swept the American middle-class. Organic foods, yoga, and connection to nature were fashionable, and alternative medicines were increasingly seen as a way of opposing the greed of pharmaceutical companies.[^47] "Natural health" treatments found their champions on cable television programs, billboards, and even daytime talk shows. Herbal remedies were suddenly back in vogue, and St. John’s wort stood to benefit. "Now, for the first time, the worlds of conventional medicine and alternative healing have at last come together to embrace St. John’s wort’s exceptional powers," wrote Rosenthal in 1996.[^48] The plant’s enthusiasts were confident that owing to its natural healing qualities, it "beats Prozac hands down."[^49]
 <param ve-video
                src="td-joVR81FU"
-			   caption="People have opinions!">
+			   caption="1999 television commercial for St. John's wort herbal supplement.">
 	
 
 ### Too Good to Be True?
