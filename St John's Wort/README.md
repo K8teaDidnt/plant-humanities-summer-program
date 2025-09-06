@@ -186,8 +186,9 @@ Dubno’s final reason for taking St. John’s wort was that she was "nearly pho
 	   caption="Photo by [Thomas Hoang](https://unsplash.com/@megatunger?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-writing-on-white-sheet-_9Cdw2Q6ZiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).">
 	
 In summary, despite their popular appeal, such unregulated substances can ultimately prove dangerous. As recently as 2025, the United States Secretary of Health and Human Services Robert F. Kennedy Jr. has argued against the "aggressive suppression" of the 1994 FDA law that authorized such controversial cures as dietary supplements, encouraging their manufacturers to make bolder claims about the effectiveness of these drugs to receive government subsidies.[^63] For supplements such as St. John’s wort, which can lead extreme mental and physical effects if improperly administered, less regulation can only increase potential risks for people in search of mental support. By contrast, standardized dosages across brands and mandatory warning labels listing drug interactions could go a long way toward improving the supplement’s safety.[^64]
-<param ve-iframe
-	   src="https://x.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw">
+<param ve-image
+	   src="gh:K8teaDidnt/plant-humanities-summer-program/main/St%20John's%20Wort/KennedyScreenshot.PNG"
+	   caption="Robert F. Kennedy [post on X](https://x.com/RobertKennedyJr/status/1849925311586238737?ref_src=twsrc%5Etfw), screenshot taken September 6, 2025.">
 
 The use of herbal medicines is complicated by their chemical effects and nuanced cultural history. St. John’s wort epitomizes what has been lost in the schism between traditional and contemporary medicine: its benefits are not fully utilized, while its dangers go unacknowledged. Medicine is historically rooted in plants as *[materia medica](Q1291275)*, and severing today’s treatments from traditional medicine means rejecting thousands of years of traditional knowledge. Still, for the treatment of patients suffering from depression, modern scientific standards are unquestionably necessary.[^65] Safe and effective mental health treatments will have to come from a close dialogue between traditional wisdom and laboratory expertise.[^66]
 <param ve-image
