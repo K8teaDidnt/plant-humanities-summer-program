@@ -199,9 +199,9 @@ The use of herbal medicines is complicated by their chemical effects and nuanced
 ### References
 
 Additional images used in this essay:
-* Banner image "St John's wort (9290733431)" by Line Sabroe via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St_John%27s_wort_(9290733431).jpg).
-* Opening paragraph "Hypericum perforatum kz03" by Krzysztof Ziarnek, Kenraiz via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hypericum_perforatum_kz03.jpg).
-* Thumbnail illustration from Blackwell, *Herbarium Blackwellanum v.1*, Dumbarton Oaks Research Library and Collection, Trustees for Harvard University, Washington, DC.
+* Banner image: "St John's wort (9290733431)" by Line Sabroe via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St_John%27s_wort_(9290733431).jpg).
+* Opening paragraph illustration: "Hypericum perforatum kz03" by Krzysztof Ziarnek, Kenraiz via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hypericum_perforatum_kz03.jpg).
+* Thumbnail illustration: Blackwell, *Herbarium Blackwellanum v.1*, Dumbarton Oaks Research Library and Collection, Trustees for Harvard University, Washington, DC.
 
 
 
